@@ -106,12 +106,12 @@ const Sidebar = () => {
                 className=" flex-1 rounded-lg pl-12 outline-none bg-slate-100 h-8 "
                 placeholder="Search in chats"
               />
-              <button className="rounded-full hidden md:inline bg-inherit ml-1 hover:bg-slate-100 w-10 h-10">
+              {/* <button className="rounded-full hidden md:inline bg-inherit ml-1 hover:bg-slate-100 w-10 h-10">
                 <FontAwesomeIcon
                   icon={faFilter}
                   className="text-slate-400 text-xl  "
                 />
-              </button>
+              </button> */}
             </div>
           </div>
 
